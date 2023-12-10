@@ -23,14 +23,12 @@ public class Gamemode extends PluginCommand {
             return;
         }
 
-        if(args[0].equalsIgnoreCase("reload")){
-            player.sendMessage(String.valueOf(config.get("messages.reloaded")).replaceAll("&", "§"));
-            plugin.reloadConfig();
-            plugin.saveConfig();
-            return;
-        }
-
         switch (args[0].toLowerCase()){
+            case "reload":
+                player.sendMessage(parse(config.getString("messages.prefix")+" "+config.getString("messages.reload")));
+                plugin.reloadConfig();
+                plugin.saveConfig();
+                break;
             case "survival":
             case "0":
             case "s":
