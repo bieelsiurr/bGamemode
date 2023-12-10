@@ -1,6 +1,7 @@
 ## bGamemode 💎
 > Plugin básico totalmente configurable para alternar entre modos de juego.
 
-> Comandos disponibles: 💻
-> **/gm** o **/gamemode** - Como primer argumento 1️⃣
-> **0**, **survival** o **s** - Como segundo argumento (así con todos los modos) 2️⃣
+### Comandos disponibles ⚙️
+
+**/gm** o **/gamemode** - Como primer argumento 1️⃣
+**0**, **survival** o **s** - Como segundo argumento (así con todos los modos) 2️⃣
