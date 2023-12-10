@@ -1,0 +1,10 @@
+name: bGamemode
+version: DEV-0.1
+main: me.biieeel.bGamemode
+api-version: 1.20
+author: bie
+website: biieeel.me
+commands:
+  gamemode:
+    aliases:
+      - gm
