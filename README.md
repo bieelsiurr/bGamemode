@@ -3,5 +3,6 @@
 
 ### Comandos disponibles ⚙️
 
-**/gm** o **/gamemode** - Como primer argumento 1️⃣
-**0**, **survival** o **s** - Como segundo argumento (así con todos los modos) 2️⃣
+**/gm** o **/gamemode** - Como primer argumento
+
+**0**, **survival** o **s** - Como segundo argumento (así con todos los modos)
